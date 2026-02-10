@@ -535,6 +535,6 @@ We're always improving VisualMaker. Future features may include:
 
 ---
 
-**Made with ❤️ by the VisualMaker team**
+**Made with ❤️ by Tridip**
 
 Start creating beautiful diagrams today! [Try VisualMaker Now](https://visualmaker.vercel.app)
