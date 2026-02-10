@@ -253,7 +253,7 @@ export function Editor() {
             </div>
           </div>
           <div className="mt-8 pt-8 border-t border-slate-700 text-center text-sm text-slate-500">
-            <p>Built with Mermaid, React, and Tailwind CSS</p>
+            <p>Made with ❤️ by Tridip</p>
           </div>
         </div>
       </footer>
