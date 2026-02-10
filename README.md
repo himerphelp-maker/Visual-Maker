@@ -37,7 +37,7 @@ A modern, production-ready web application for creating beautiful diagrams from 
 
 ### Online (No Installation)
 
-Visit the live app: **[VisualMaker](https://visualmaker.vercel.app)** or **[VisualMaker on Netlify](https://visualmaker.netlify.app)**
+Visit the live app: **[VisualMaker](https://visual-maker.netlify.app/)** or **[VisualMaker on Netlify](https://visual-maker.netlify.app)**
 
 Start creating diagrams immediately—no setup required!
 
@@ -537,4 +537,4 @@ We're always improving VisualMaker. Future features may include:
 
 **Made with ❤️ by Tridip**
 
-Start creating beautiful diagrams today! [Try VisualMaker Now](https://visualmaker.vercel.app)
+Start creating beautiful diagrams today! [Try VisualMaker Now](https://visual-maker.netlify.app)
