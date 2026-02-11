@@ -253,7 +253,11 @@ export function Editor() {
             </div>
           </div>
           <div className="mt-8 pt-8 border-t border-slate-700 text-center text-sm text-slate-500">
-            <p>Made with ❤️ by Tridip</p>
+            <p>Made with ❤️ by 
+              <a href="https://googleit.in" target="_blank" rel="noopener noreferrer">
+                Tridip
+              </a>
+            </p>
           </div>
         </div>
       </footer>
