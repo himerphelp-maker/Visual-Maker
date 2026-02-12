@@ -256,8 +256,7 @@ export function Editor() {
             <p>
               Made with ❤️ by 
               <a href="https://googleit.in" 
-              target="_blank" 
-              rel="noopener noreferrer"
+              target="_blank"
               style="color: #ff4d6d;">
                Tridip
               </a>
